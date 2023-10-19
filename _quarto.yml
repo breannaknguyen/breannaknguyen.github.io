@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: Breanna Nguyễn
+  favicon: favicon.png
+  navbar:
+    right:
+      - text: "Home"
+        file: index.qmd
+        icon: "house-door"
+      - text: "Projects"
+        file: projects.qmd
+        icon: "book"
+      - text: "Personal"
+        file: personal.qmd
+        icon: "person-circle"
+      - text: "Contact"
+        file: contact.qmd
+        icon: "mailbox"
+
+format:
+  html:
+    theme: yeti
+    toc: true
+    smooth-scroll: true
