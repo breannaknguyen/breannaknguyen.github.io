@@ -11,7 +11,6 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-<<<<<<< HEAD
     "text": "Society of Southeastern Social Psychologists (poster presentation)\nIn progress"
   },
   {
@@ -22,13 +21,6 @@
     "text": "Society of Southeastern Social Psychologists (poster presentation)\nIn progress"
   },
   {
-    "objectID": "projects.html#environmental-health-umbrella-review",
-    "href": "projects.html#environmental-health-umbrella-review",
-    "title": "Projects",
-    "section": "EnvironMental Health Umbrella Review",
-    "text": "EnvironMental Health Umbrella Review\n\nIn progress"
-  },
-  {
     "objectID": "projects.html#computing-morality-mimicking-human-decision-making-in-workplace-dilemmas",
     "href": "projects.html#computing-morality-mimicking-human-decision-making-in-workplace-dilemmas",
     "title": "Projects",
@@ -36,39 +28,24 @@
     "text": "Computing Morality: Mimicking Human Decision-Making in Workplace Dilemmas\n\nEarned highest possible grade (first with distinction) at Cambridge University’s summer program\nIn progress"
   },
   {
-    "objectID": "projects.html#ethical-resolutions-for-interpersonal-conflicts-eric",
-    "href": "projects.html#ethical-resolutions-for-interpersonal-conflicts-eric",
+    "objectID": "projects.html#environmental-health-umbrella-review",
+    "href": "projects.html#environmental-health-umbrella-review",
     "title": "Projects",
-    "section": "Ethical Resolutions for Interpersonal Conflicts (ERIC)",
-    "text": "Ethical Resolutions for Interpersonal Conflicts (ERIC)\n\nbeep boop"
-  },
-  {
-    "objectID": "projects.html#bot-for-resolutions-in-ethical-adversity-nuanced-numerical-analysis-breanna",
-    "href": "projects.html#bot-for-resolutions-in-ethical-adversity-nuanced-numerical-analysis-breanna",
-    "title": "Projects",
-    "section": "Bot for Resolutions in Ethical Adversity; Nuanced Numerical Analysis (BREANNA)",
-    "text": "Bot for Resolutions in Ethical Adversity; Nuanced Numerical Analysis (BREANNA)\n\nbeep boop"
-=======
-    "text": "This is where a description of my projects will go."
->>>>>>> a6e9cd6 (Add Quarto-generated website files)
+    "section": "EnvironMental Health Umbrella Review",
+    "text": "EnvironMental Health Umbrella Review\n\nIn progress"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Breanna Nguyễn",
     "section": "",
-<<<<<<< HEAD
     "text": "Hi! I am a third-year undergraduate student at Yale Univeristy. I have a strong passion for research and am always seeking opportunities to expand my knowledge and skills. I am broadly interested in moral cognition, computational ethics, and data science.\nEducation\nYale University | New Haven, CT | 2021-2025\nBachelor of Science in Cognitive Science\nCertificate in Data Science\nResearch Experience\nHuman Nature Lab | February 2023 - Present\nPI: Nicholas Christakis\nEnvironMental Health Project | Jan 2022 - Present\nPI: Paul Anastas\nExperimental Philosophy Group | Jan 2022 - Present\nPI: Joshua Knobe\nCrockett Lab | Feb 2022 - Aug 2023\nPI: Molly Crockett"
-=======
-    "text": "I am a third-year undergraduate at Yale University. I have a strong passion for research, and am always seeking opportunities to expand my knowledge and skills.\nEducation\nYale University | New Haven, CT | August 2021 - May 2025\nBachelor of Science in Cognitive Science\nExperience\nbeep boop"
->>>>>>> a6e9cd6 (Add Quarto-generated website files)
   },
   {
     "objectID": "personal.html",
     "href": "personal.html",
     "title": "Personal",
     "section": "",
-<<<<<<< HEAD
     "text": "Outside of academics and research, I like to do some fun things :)"
   },
   {
@@ -84,8 +61,5 @@
     "title": "Personal",
     "section": "Various logo designs",
     "text": "Various logo designs"
-=======
-    "text": "Music\n\n\n\n\nPowerlifting\nI was one of the founders of the largest club sport at Yale, growing from 3 original members to over 100 from the first to second year."
->>>>>>> a6e9cd6 (Add Quarto-generated website files)
   }
 ]
