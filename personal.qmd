@@ -14,9 +14,6 @@ Outside of academics and research, I like to do some fun things :)
 <div style="display: flex;">
   <img src="lanyard.png" width="50%"><img src="Cowboys.png" width="50%" >
 </div>
-<div style="display: flex;">
-  <img src="Yale%20Shower%20Drain.png" width="50%"> < 
-</div>
 
 ## Various logo designs
 <div style="display: flex;">
@@ -24,15 +21,22 @@ Outside of academics and research, I like to do some fun things :)
 </div>
 
 # Powerlifting
-I was one of the founders of the largest club sport at Yale, growing from 3 original members to over 100 from the first to second year.  
-
-[YDN article](https://yaledailynews.com/blog/2022/11/02/club-powerlifting-host-its-first-meet-of-the-year/)
+- I was one of the founders of the largest club sport at Yale, growing from 3 original members to over 100 from the first to second year.  
+- [YDN article](https://yaledailynews.com/blog/2022/11/02/club-powerlifting-host-its-first-meet-of-the-year/)
 
 {{< video https://www.youtube.com/watch?v=4te76E_lK8o >}}
 
 ![](ypl.JPG)
 
-225 lbs deadlift personal record!  
+- 225 lbs deadlift personal record!  
 
 ![](225.gif)
+
+# Volunteering
+- Bridges ESL
+  - I have had the privilege of tutoring amazing students on their English language learning journeys.
+  - [YDN article](https://yaledailynews.com/blog/2022/10/26/bridges-esl-connects-yale-and-new-haven-through-interactive-english-lessons/)
+- Project Access
+  - This year, I have been having an awesome experience as a mentor for international students applying to universities in the United States.
+  - [More information](https://projectaccess.org/)
 

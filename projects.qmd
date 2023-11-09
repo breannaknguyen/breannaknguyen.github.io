@@ -3,13 +3,14 @@ title: "Projects"
 layout: page
 ---
 
-
 ## What It Means To Be Badass
-- Society of Southeastern Social Psychologists (poster presentation)
+- Society of Southeastern Social Psychologists (poster presentation, November 2023)
+    - Runner-up poster award
+- Society for Personality and Social Psychology (poster presentation, February 2024)
 - In progress
 
 ## Computing Morality: Mimicking Human Decision-Making in Workplace Dilemmas
-- Earned highest possible grade (first with distinction) at Cambridge University's summer program
+- Earned highest honor (first with distinction) at Cambridge University's summer program
 - In progress
 
 

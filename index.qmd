@@ -1,10 +1,10 @@
 ---
 about:
   template: trestles
-  image: me.jpg
+  image: me.jpeg
 ---
 
-Hi! I am a third-year undergraduate student at Yale Univeristy. I have a strong passion for research and am always seeking opportunities to expand my knowledge and skills. I am broadly interested in moral cognition, computational ethics, and data science.
+Hi! I am a third-year undergraduate student at Yale University. I have a strong passion for research and am always seeking opportunities to expand my knowledge and skills. I am broadly interested in moral cognition, computational ethics, and data science.
 
 **Education**  
 Yale University | New Haven, CT | 2021-2025  
@@ -12,7 +12,7 @@ Yale University | New Haven, CT | 2021-2025
 *Certificate in Data Science*  
 
 **Research Experience**  
-Human Nature Lab | February 2023 - Present  
+Human Nature Lab | Feb 2023 - Present  
 *PI: Nicholas Christakis*  
 
 EnvironMental Health Project | Jan 2022 - Present  
