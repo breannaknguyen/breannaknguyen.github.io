@@ -1,0 +1,38 @@
+---
+title: "Personal"
+layout: page
+---
+Outside of academics and research, I like to do some fun things :)
+
+# Music
+{{< video https://www.youtube.com/watch?v=1zhd1ExfVI8 >}}
+
+{{< video https://www.youtube.com/watch?v=x31LqfbHsXo >}}
+
+# Art 
+## *The Yale Record* cartoons  
+<div style="display: flex;">
+  <img src="lanyard.png" width="50%"><img src="Cowboys.png" width="50%" >
+</div>
+<div style="display: flex;">
+  <img src="Yale%20Shower%20Drain.png" width="50%"> < 
+</div>
+
+## Various logo designs
+<div style="display: flex;">
+  <img src="CogSci%20Logo2.png" width="50%"><img src="Sticker6.png" width="50%">
+</div>
+
+# Powerlifting
+I was one of the founders of the largest club sport at Yale, growing from 3 original members to over 100 from the first to second year.  
+
+[YDN article](https://yaledailynews.com/blog/2022/11/02/club-powerlifting-host-its-first-meet-of-the-year/)
+
+{{< video https://www.youtube.com/watch?v=4te76E_lK8o >}}
+
+![](ypl.JPG)
+
+225 lbs deadlift personal record!  
+
+![](225.gif)
+

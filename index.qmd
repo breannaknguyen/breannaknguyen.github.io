@@ -1,0 +1,25 @@
+---
+about:
+  template: trestles
+  image: me.jpg
+---
+
+Hi! I am a third-year undergraduate student at Yale Univeristy. I have a strong passion for research and am always seeking opportunities to expand my knowledge and skills. I am broadly interested in moral cognition, computational ethics, and data science.
+
+**Education**  
+Yale University | New Haven, CT | 2021-2025  
+*Bachelor of Science in Cognitive Science*  
+*Certificate in Data Science*  
+
+**Research Experience**  
+Human Nature Lab | February 2023 - Present  
+*PI: Nicholas Christakis*  
+
+EnvironMental Health Project | Jan 2022 - Present  
+*PI: Paul Anastas*  
+
+Experimental Philosophy Group | Jan 2022 - Present  
+*PI: Joshua Knobe*  
+
+Crockett Lab | Feb 2022 - Aug 2023  
+*PI: Molly Crockett*  
