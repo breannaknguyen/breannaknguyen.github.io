@@ -11,64 +11,20 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-<<<<<<< HEAD
-    "text": "Society of Southeastern Social Psychologists (poster presentation)\nIn progress"
-  },
-  {
-    "objectID": "projects.html#what-it-means-to-be-badass",
-    "href": "projects.html#what-it-means-to-be-badass",
-    "title": "Projects",
-    "section": "",
-    "text": "Society of Southeastern Social Psychologists (poster presentation)\nIn progress"
-  },
-  {
-    "objectID": "projects.html#environmental-health-umbrella-review",
-    "href": "projects.html#environmental-health-umbrella-review",
-    "title": "Projects",
-    "section": "EnvironMental Health Umbrella Review",
-    "text": "EnvironMental Health Umbrella Review\n\nIn progress"
-  },
-  {
-    "objectID": "projects.html#computing-morality-mimicking-human-decision-making-in-workplace-dilemmas",
-    "href": "projects.html#computing-morality-mimicking-human-decision-making-in-workplace-dilemmas",
-    "title": "Projects",
-    "section": "Computing Morality: Mimicking Human Decision-Making in Workplace Dilemmas",
-    "text": "Computing Morality: Mimicking Human Decision-Making in Workplace Dilemmas\n\nEarned highest possible grade (first with distinction) at Cambridge University’s summer program\nIn progress"
-  },
-  {
-    "objectID": "projects.html#ethical-resolutions-for-interpersonal-conflicts-eric",
-    "href": "projects.html#ethical-resolutions-for-interpersonal-conflicts-eric",
-    "title": "Projects",
-    "section": "Ethical Resolutions for Interpersonal Conflicts (ERIC)",
-    "text": "Ethical Resolutions for Interpersonal Conflicts (ERIC)\n\nbeep boop"
-  },
-  {
-    "objectID": "projects.html#bot-for-resolutions-in-ethical-adversity-nuanced-numerical-analysis-breanna",
-    "href": "projects.html#bot-for-resolutions-in-ethical-adversity-nuanced-numerical-analysis-breanna",
-    "title": "Projects",
-    "section": "Bot for Resolutions in Ethical Adversity; Nuanced Numerical Analysis (BREANNA)",
-    "text": "Bot for Resolutions in Ethical Adversity; Nuanced Numerical Analysis (BREANNA)\n\nbeep boop"
-=======
-    "text": "This is where a description of my projects will go."
->>>>>>> a6e9cd6 (Add Quarto-generated website files)
+    "text": "An Intuitive Physics Approach to Modeling Melodic Expectation (in progress)\n\nImplemented a computational model of melodic expectation using existing work on probabilisic melody perception and musical forces\n\n\n\nEnvironMental Health Umbrella Review (in progress)\n\nDesigned and implemented a novel data collection tool to synthesize input from the reviewers\nCreated data pipeline to standardize and present findings at weekly meetings\nCreated all figures to be included in forthcoming publication\n\n\n\nWhat It Means To Be Badass (in progress)\n\nDesigned and implemented four pre-registered experiments to approach the true meaning of “badass” through a philosophical and psychological perspective\nPoster Presentation: Society for Personality and Social Psychology (February 2024)\nPoster Presentation: Society of Southeastern Social Psychologists (November 2023)\n\nRunner-up poster award\n\n\n\n\nComputing Morality: Mimicking Human Decision-Making in Workplace Dilemmas (in progress)\n\nImplemented a machine learning algorithm that accurately predicts the verdicts of specific workplace ethical dilemmas based on a corpus of Reddit posts\nEarned highest honor (first with distinction) at Cambridge University’s summer program"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Breanna Nguyễn",
     "section": "",
-<<<<<<< HEAD
-    "text": "Hi! I am a third-year undergraduate student at Yale Univeristy. I have a strong passion for research and am always seeking opportunities to expand my knowledge and skills. I am broadly interested in moral cognition, computational ethics, and data science.\nEducation\nYale University | New Haven, CT | 2021-2025\nBachelor of Science in Cognitive Science\nCertificate in Data Science\nResearch Experience\nHuman Nature Lab | February 2023 - Present\nPI: Nicholas Christakis\nEnvironMental Health Project | Jan 2022 - Present\nPI: Paul Anastas\nExperimental Philosophy Group | Jan 2022 - Present\nPI: Joshua Knobe\nCrockett Lab | Feb 2022 - Aug 2023\nPI: Molly Crockett"
-=======
-    "text": "I am a third-year undergraduate at Yale University. I have a strong passion for research, and am always seeking opportunities to expand my knowledge and skills.\nEducation\nYale University | New Haven, CT | August 2021 - May 2025\nBachelor of Science in Cognitive Science\nExperience\nbeep boop"
->>>>>>> a6e9cd6 (Add Quarto-generated website files)
+    "text": "Hi! I am a third-year undergraduate student at Yale University. I have a strong passion for research and am always seeking opportunities to expand my knowledge and skills. I am broadly interested in moral cognition, computational ethics, and data science.\nEducation\nYale University | New Haven, CT | 2021-2025\nBachelor of Science in Cognitive Science\nCertificate in Data Science\nResearch Experience\nEnvironMental Health Project | Jan 2023 - Present\nPIs: Paul Anastas & Julie Zimmerman\nExperimental Philosophy Group | Dec 2022 - Present\nPI: Joshua Knobe\nHuman Nature Lab | Feb 2023 - Dec 2023\nPI: Nicholas Christakis\nCrockett Lab | Feb 2022 - Aug 2023\nPI: Molly Crockett"
   },
   {
     "objectID": "personal.html",
     "href": "personal.html",
     "title": "Personal",
     "section": "",
-<<<<<<< HEAD
     "text": "Outside of academics and research, I like to do some fun things :)"
   },
   {
@@ -76,7 +32,7 @@
     "href": "personal.html#the-yale-record-cartoons",
     "title": "Personal",
     "section": "The Yale Record cartoons",
-    "text": "The Yale Record cartoons\n\n\n\n\n &lt;"
+    "text": "The Yale Record cartoons"
   },
   {
     "objectID": "personal.html#various-logo-designs",
@@ -84,8 +40,5 @@
     "title": "Personal",
     "section": "Various logo designs",
     "text": "Various logo designs"
-=======
-    "text": "Music\n\n\n\n\nPowerlifting\nI was one of the founders of the largest club sport at Yale, growing from 3 original members to over 100 from the first to second year."
->>>>>>> a6e9cd6 (Add Quarto-generated website files)
   }
 ]

@@ -4,14 +4,22 @@ layout: page
 ---
 
 
-## What It Means To Be Badass
-- Society of Southeastern Social Psychologists (poster presentation)
-- In progress
+### An Intuitive Physics Approach to Modeling Melodic Expectation (in progress)
+- Implemented a computational model of melodic expectation using existing work on probabilisic melody perception and musical forces
+- Accepted to the 46th Annual Meeting of the Cognitive Science Society
 
-## Computing Morality: Mimicking Human Decision-Making in Workplace Dilemmas
-- Earned highest possible grade (first with distinction) at Cambridge University's summer program
-- In progress
+### EnvironMental Health Umbrella Review (in progress)
+- Designed and implemented a novel data collection tool to synthesize input from the reviewers
+- Created data pipeline to standardize and present findings at weekly meetings
+- Created all figures to be included in forthcoming publication
+- Submitted to Nature Mental Health
 
+### What It Means To Be Badass (in progress)
+- Designed and implemented four pre-registered experiments to approach the true meaning of “badass” through a philosophical and psychological perspective
+- Poster Presentation: Society for Personality and Social Psychology (February 2024)
+- Poster Presentation: Society of Southeastern Social Psychologists (November 2023)
+    - Runner-up poster award
 
-## EnvironMental Health Umbrella Review
-- In progress
+### Computing Morality: Mimicking Human Decision-Making in Workplace Dilemmas (in progress)
+- Implemented a machine learning algorithm that accurately predicts the verdicts of specific workplace ethical dilemmas based on a corpus of Reddit posts
+- Earned highest honor (first with distinction) at Cambridge University's summer program
