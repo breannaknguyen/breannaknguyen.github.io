@@ -6,11 +6,13 @@ layout: page
 
 ### An Intuitive Physics Approach to Modeling Melodic Expectation (in progress)
 - Implemented a computational model of melodic expectation using existing work on probabilisic melody perception and musical forces
+- Accepted to the 46th Annual Meeting of the Cognitive Science Society
 
 ### EnvironMental Health Umbrella Review (in progress)
 - Designed and implemented a novel data collection tool to synthesize input from the reviewers
 - Created data pipeline to standardize and present findings at weekly meetings
 - Created all figures to be included in forthcoming publication
+- Submitted to Nature Mental Health
 
 ### What It Means To Be Badass (in progress)
 - Designed and implemented four pre-registered experiments to approach the true meaning of “badass” through a philosophical and psychological perspective
