@@ -22,6 +22,6 @@ website:
 
 format:
   html:
-    theme: yeti
+    theme: flatly
     toc: true
     smooth-scroll: true

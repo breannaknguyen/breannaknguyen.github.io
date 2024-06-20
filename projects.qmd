@@ -3,7 +3,14 @@ title: "Projects"
 layout: page
 ---
 
+## Publications
+### In Press
+**Nguyen, B. K.**, & Yildirim, I. (2024). An Intuitive Physics Approach to Modeling Melodic Expectation. *Proceedings of the Annual Meeting of the Cognitive Science Society*, 46. https://escholarship.org/uc/item/8ds971xf
 
+### Under Review
+Ratjen, L., Goddard, E., Gilcher, E. B., **Nguyen, B. K.**, Backhaus, A., Kelley, M., Akalaonu, K., Feldman, H. S., Lascurain, M. L., Wyrtzen, N. E., Nyhan, K., Smith, S. S., Lowe, S. R., Prabhu, M., Chen, K., Zimmerman, J. B., and Anastas, P. T. (2024). EnvironMental Health: A Framework for an Emerging Field at the Nexus of Environment and Mental Health Crises. Nature Mental Health.
+
+## Ongoing Projects
 ### An Intuitive Physics Approach to Modeling Melodic Expectation (in progress)
 - Implemented a computational model of melodic expectation using existing work on probabilisic melody perception and musical forces
 - Accepted to the 46th Annual Meeting of the Cognitive Science Society
@@ -22,4 +29,7 @@ layout: page
 
 ### Computing Morality: Mimicking Human Decision-Making in Workplace Dilemmas (in progress)
 - Implemented a machine learning algorithm that accurately predicts the verdicts of specific workplace ethical dilemmas based on a corpus of Reddit posts
-- Earned highest honor (first with distinction) at Cambridge University's summer program
+- Earned highest honor (first with distinction) at University of Cambridge summer program
+
+## Other
+- Nguyen, B. K., "The Nail Salon That Raised Me". *295*, 2024. https://issuu.com/yaleaacc/docs/295_2024_1_/9
