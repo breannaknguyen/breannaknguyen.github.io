@@ -7,8 +7,12 @@ layout: page
 ### In Press
 **Nguyen, B. K.**, & Yildirim, I. (2024). An Intuitive Physics Approach to Modeling Melodic Expectation. *Proceedings of the Annual Meeting of the Cognitive Science Society*, 46. https://escholarship.org/uc/item/8ds971xf
 
-### Under Review
+### In Progress
 Ratjen, L., Goddard, E., Gilcher, E. B., **Nguyen, B. K.**, Backhaus, A., Kelley, M., Akalaonu, K., Feldman, H. S., Lascurain, M. L., Wyrtzen, N. E., Nyhan, K., Smith, S. S., Lowe, S. R., Prabhu, M., Chen, K., Zimmerman, J. B., and Anastas, P. T. (2024). EnvironMental Health: A Framework for an Emerging Field at the Nexus of Environment and Mental Health Crises. Nature Mental Health.
+
+**Nguyen, B. K.**, Prinzing, M. (2024). The essence of a true badass: An application of dual-character theory
+
+Keswani, V., Conitzer, V., Heidari, H., **Nguyen, B. K.**, Schaich Borg, J., & Sinnott-Armstrong, W. (2024) Can AI Model the Complexities of Human Moral Decision-making? A Qualitative Study of Kidney Allocation Decisions
 
 ## Ongoing Projects
 ### An Intuitive Physics Approach to Modeling Melodic Expectation (in progress)
@@ -19,7 +23,6 @@ Ratjen, L., Goddard, E., Gilcher, E. B., **Nguyen, B. K.**, Backhaus, A., Kelley
 - Designed and implemented a novel data collection tool to synthesize input from the reviewers
 - Created data pipeline to standardize and present findings at weekly meetings
 - Created all figures to be included in forthcoming publication
-- Submitted to Nature Mental Health
 
 ### What It Means To Be Badass (in progress)
 - Designed and implemented four pre-registered experiments to approach the true meaning of “badass” through a philosophical and psychological perspective
