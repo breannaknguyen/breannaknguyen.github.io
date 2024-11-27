@@ -3,5 +3,5 @@ title: "Contact & CV"
 layout: page
 ---
 
-## **Email:** [breanna.nguyen@yale.edu](mailto:breanna.nguyen@yale.edu)
-## [CV](cv.pdf)
+#### **Email:** [breanna.nguyen@yale.edu](mailto:breanna.nguyen@yale.edu)
+#### [CV](cv.pdf)
