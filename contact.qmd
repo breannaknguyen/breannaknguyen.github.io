@@ -1,5 +1,7 @@
 ---
-title: "Contact"
+title: "Contact & CV"
 layout: page
 ---
-**Email:** breanna.nguyen@yale.edu 
+
+## **Email:** [breanna.nguyen@yale.edu](mailto:breanna.nguyen@yale.edu)
+## [CV](cv.pdf)

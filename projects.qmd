@@ -3,37 +3,20 @@ title: "Projects"
 layout: page
 ---
 
-## Publications
+## Scholarly Publications
 ### In Press
-**Nguyen, B. K.**, & Yildirim, I. (2024). An Intuitive Physics Approach to Modeling Melodic Expectation. *Proceedings of the Annual Meeting of the Cognitive Science Society*, 46. https://escholarship.org/uc/item/8ds971xf
+**Nguyen, B. K.**, & Yildirim, I. (2024). An Intuitive Physics Approach to Modeling Melodic Expectation. *Proceedings of the Annual Meeting of the Cognitive Science Society*, 46. https://escholarship.org/uc/item/8ds971xf.
 
 ### Under Review
 Keswani, V., **Nguyen, B. K.**, Schaich Borg, J., Conitzer, V., Heidari, H., & Sinnott-Armstrong, W. (2024) Can AI Model the Complexities of Human Moral Decision-making? A Qualitative Study of Kidney Allocation Decisions. *Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI '25)*
 
 Ratjen, L., Goddard, E., Gilcher, E. B., **Nguyen, B. K.**, Backhaus, A., Kelley, M., Akalaonu, K., Feldman, H. S., Lascurain, M. L., Wyrtzen, N. E., Nyhan, K., Smith, S. S., Lowe, S. R., Prabhu, M., Chen, K., Zimmerman, J. B., and Anastas, P. T. (2024). EnvironMental Health: A Framework for an Emerging Field at the Nexus of Environment and Mental Health Crises. *GeoHealth*.
 
-### In Prep
-**Nguyen, B. K.** & Prinzing, M. (2024). The essence of a true badass: An application of dual-character theory
+**Nguyen, B. K.** & Prinzing, M. (2024). The essence of a true badass: An application of dual-character theory. *Review of Philosophy and Psychology.* https://doi.org/10.31234/osf.io/542na.
 
-## Ongoing Projects
-### An Intuitive Physics Approach to Modeling Melodic Expectation (in progress)
-- Implemented a computational model of melodic expectation using existing work on probabilisic melody perception and musical forces
-- Accepted to the 46th Annual Meeting of the Cognitive Science Society
+## Presentations
+- **Nguyen, B. K.**, & Yildirim. I. An Intuitive Physics Approach to Modeling Melodic Expectation. Poster session presented at: the Annual Meeting of the Cognitive Science Society, 2024 Jul 26, Rotterdam, Netherlands.
+- **Nguyen, B. K.**, & Prinzing, M. What It Means to Be Badass. Poster session presented at: The Society for Personality and Social Psychology’s Annual Convention, 2024 Feb 9, San Diego, CA and The Society for Southeastern Social Psychologists Annual Meeting, 2023 Nov 4, Charlotte, NC.
 
-### EnvironMental Health Umbrella Review (in progress)
-- Designed and implemented a novel data collection tool to synthesize input from the reviewers
-- Created data pipeline to standardize and present findings at weekly meetings
-- Created all figures to be included in forthcoming publication
-
-### What It Means To Be Badass (in progress)
-- Designed and implemented four pre-registered experiments to approach the true meaning of “badass” through a philosophical and psychological perspective
-- Poster Presentation: Society for Personality and Social Psychology (February 2024)
-- Poster Presentation: Society of Southeastern Social Psychologists (November 2023)
-    - Runner-up poster award
-
-### Computing Morality: Mimicking Human Decision-Making in Workplace Dilemmas (in progress)
-- Implemented a machine learning algorithm that accurately predicts the verdicts of specific workplace ethical dilemmas based on a corpus of Reddit posts
-- Earned highest honor (first with distinction) at University of Cambridge summer program
-
-## Other
+## Other Publications
 - Nguyen, B. K., "The Nail Salon That Raised Me". *295*, 2024. https://issuu.com/yaleaacc/docs/295_2024_1_/9
