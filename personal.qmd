@@ -9,7 +9,7 @@ Outside of academics and research, I like to do some fun things :)
 
 {{< video https://www.youtube.com/watch?v=x31LqfbHsXo >}}
 
-## Science Communication
+# Science Communication
 - Videos about research for PSYC 457: Communicating Psychological Science
 {{< video https://www.youtube.com/watch?v=QWmaUXx4_S8&authuser=0 >}}
 
