@@ -1,10 +1,10 @@
 ---
 about:
-  template: solana
-  image: me.jpeg
+  template: trestles
+  image: headshot.jpeg
 ---
 
-Hi! I am a third-year undergraduate student at Yale University. I have a strong passion for research and am always seeking opportunities to expand my knowledge and skills. I am broadly interested in moral cognition, computational ethics, and data science.
+Hi! I am a senior undergraduate student at Yale Univeristy. I have a strong passion for research and am always seeking opportunities to expand my knowledge and skills. I am broadly interested in moral cognition, computational ethics, and data science.
 
 **Education**  
 Yale University | New Haven, CT | 2021-2025  
@@ -12,14 +12,22 @@ Yale University | New Haven, CT | 2021-2025
 *Certificate in Data Science*  
 
 **Research Experience**  
-EnvironMental Health Project | Jan 2023 - Present  
-*PIs: Paul Anastas & Julie Zimmerman*  
+MAD Lab | Duke University   
+June 2024 - Present  
+*PI: Walter Sinnott-Armstrong*  
 
-Experimental Philosophy Group | Dec 2022 - Present  
-*PI: Joshua Knobe*  
+Experimental Philosophy Group | Yale University  
+Jan 2022 - Present  
+*PI: Joshua Knobe* 
 
-Human Nature Lab | Feb 2023 - Dec 2023  
+EnvironMental Health Project | Yale University  
+Jan 2022 - Present  
+*PI: Paul Anastas*  
+
+Human Nature Lab | Yale University  
+February 2023 - Dec 2023  
 *PI: Nicholas Christakis*  
 
-Crockett Lab | Feb 2022 - Aug 2023  
+Crockett Lab | Yale University  
+Feb 2022 - Aug 2023  
 *PI: Molly Crockett*  

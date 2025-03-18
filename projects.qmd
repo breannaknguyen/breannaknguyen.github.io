@@ -3,23 +3,29 @@ title: "Projects"
 layout: page
 ---
 
+## Scholarly Publications
+### In Press
+Ratjen, L., Goddard, E., Gilcher, E. B., **Nguyen, B. K.**, Backhaus, A., Kelley, M., Akalaonu, K., Feldman, H. S., Lascurain, M. L., Wyrtzen, N. E., Nyhan, K., Smith, S. S., Lowe, S. R., Prabhu, M., Chen, K., Zimmerman, J. B., and Anastas, P. T. (2024). EnvironMental Health: A Framework for an Emerging Field at the Nexus of Environment and Mental Health Crises. *GeoHealth*.
 
-### An Intuitive Physics Approach to Modeling Melodic Expectation (in progress)
-- Implemented a computational model of melodic expectation using existing work on probabilisic melody perception and musical forces
-- Accepted to the 46th Annual Meeting of the Cognitive Science Society
+**Nguyen, B. K.**, & Yildirim, I. (2024). An Intuitive Physics Approach to Modeling Melodic Expectation. *Proceedings of the Annual Meeting of the Cognitive Science Society*, 46. https://escholarship.org/uc/item/8ds971xf.
 
-### EnvironMental Health Umbrella Review (in progress)
-- Designed and implemented a novel data collection tool to synthesize input from the reviewers
-- Created data pipeline to standardize and present findings at weekly meetings
-- Created all figures to be included in forthcoming publication
-- Submitted to Nature Mental Health
+### Accepted
+Keswani, V., Conitzer, V., Sinnott-Armstrong, W., **Nguyen, B. K.**, Heidari, H. & Schaich Borg, J. (2024) Can AI Model the Complexities of Human Moral Decision-making? A Qualitative Study of Kidney Allocation Decisions. *Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI '25)*
 
-### What It Means To Be Badass (in progress)
-- Designed and implemented four pre-registered experiments to approach the true meaning of “badass” through a philosophical and psychological perspective
-- Poster Presentation: Society for Personality and Social Psychology (February 2024)
-- Poster Presentation: Society of Southeastern Social Psychologists (November 2023)
-    - Runner-up poster award
+### In Prep
+**Nguyen, B. K.** & Prinzing, M. (2024). What It Means To Be A True Badass: An Experimental Investigation Of The Ordinary Concept. *Review of Philosophy and Psychology.* https://doi.org/10.31234/osf.io/542na.
 
-### Computing Morality: Mimicking Human Decision-Making in Workplace Dilemmas (in progress)
-- Implemented a machine learning algorithm that accurately predicts the verdicts of specific workplace ethical dilemmas based on a corpus of Reddit posts
-- Earned highest honor (first with distinction) at Cambridge University's summer program
+## Presentations
+- **Nguyen, B. K.**, & Yildirim. I. An Intuitive Physics Approach to Modeling Melodic Expectation. Poster session presented at: the Annual Meeting of the Cognitive Science Society, 2024 Jul 26, Rotterdam, Netherlands.
+- **Nguyen, B. K.**, & Prinzing, M. What It Means to Be Badass. Poster session presented at: The Society for Personality and Social Psychology’s Annual Convention, 2024 Feb 9, San Diego, CA and The Society for Southeastern Social Psychologists Annual Meeting, 2023 Nov 4, Charlotte, NC.
+
+## In The Media
+- What It Means To Be A True Badass
+    - [New York Post](https://nypost.com/2024/12/02/science/scientists-reveal-strict-criteria-that-make-someone-a-badass/)
+    - [DailyMail](https://www.dailymail.co.uk/sciencetech/article-14148507/Scientists-reveal-exactly-makes-badass.html)
+    - [IFLScience](https://www.iflscience.com/this-is-how-to-be-a-badass-according-to-science-77015)
+    - [KOOL FM](https://1075koolfm.com/what-makes-someone-a-badass/)
+
+
+## Other Publications
+- Nguyen, B. K., "The Nail Salon That Raised Me". *295*, 2024. https://issuu.com/yaleaacc/docs/295_2024_1_/9

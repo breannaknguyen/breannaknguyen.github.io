@@ -9,6 +9,14 @@ Outside of academics and research, I like to do some fun things :)
 
 {{< video https://www.youtube.com/watch?v=x31LqfbHsXo >}}
 
+# Science Communication
+- Videos about research for PSYC 457: Communicating Psychological Science
+{{< video https://www.youtube.com/watch?v=QWmaUXx4_S8&authuser=0 >}}
+
+{{< video https://www.youtube.com/watch?v=d0_0Q7K4uIw&authuser=0 >}}
+
+{{< video https://www.youtube.com/watch?v=QFrrrjHP6tc&authuser=0 >}}
+
 # Art 
 ## *The Yale Record* cartoons  
 <div style="display: flex;">
@@ -35,9 +43,11 @@ Outside of academics and research, I like to do some fun things :)
 
 # Volunteering
 - Bridges ESL
-  - In 2022 and 2023, I had the privilege of tutoring amazing students on their English language learning journeys.
+  - I had the privilege of tutoring amazing students on their English language learning journeys.
   - [YDN article](https://yaledailynews.com/blog/2022/10/26/bridges-esl-connects-yale-and-new-haven-through-interactive-english-lessons/)
 - Project Access
-  - In 2023, I had an awesome experience as a mentor for international students applying to universities in the United States.
+  - I had an awesome experience as a mentor for international students applying to universities in the United States.
   - [More information](https://projectaccess.org/)
+- Yale Undergraduate Admissions
+  - I participated in program that matched selected Yale students with admitted students who had shared interests to advise on pre-matriculation matters. I also visited high schools to target high-achieving students in underrepresented geographic areas and promote application and financial aid opportunities.
 

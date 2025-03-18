@@ -16,12 +16,12 @@ website:
       - text: "Personal"
         file: personal.qmd
         icon: "person-circle"
-      - text: "Contact"
+      - text: "Contact & CV"
         file: contact.qmd
         icon: "mailbox"
 
 format:
   html:
-    theme: yeti
+    theme: lux
     toc: true
     smooth-scroll: true
