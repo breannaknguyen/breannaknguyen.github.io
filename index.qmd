@@ -1,7 +1,7 @@
 ---
 about:
   template: trestles
-  image: me2.jpg
+  image: headshot.jpeg
 ---
 
 Hi! I am a senior undergraduate student at Yale Univeristy. I have a strong passion for research and am always seeking opportunities to expand my knowledge and skills. I am broadly interested in moral cognition, computational ethics, and data science.
