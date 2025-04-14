@@ -4,4 +4,4 @@ layout: page
 ---
 
 #### **Email:** [breanna.nguyen@yale.edu](mailto:breanna.nguyen@yale.edu)
-#### [CV](bnguyen_cv.pdf)
+#### **View my CV** [here](media/bnguyen_cv.pdf)
