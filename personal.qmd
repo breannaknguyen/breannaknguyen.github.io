@@ -20,12 +20,12 @@ Outside of academics and research, I like to do some fun things :)
 # Art 
 ## *The Yale Record* cartoons  
 <div style="display: flex;">
-  <img src="lanyard.png" width="50%"><img src="Cowboys.png" width="50%" >
+  <img src="media/lanyard.png" width="50%"><img src="media/Cowboys.png" width="50%" >
 </div>
 
 ## Various logo designs
 <div style="display: flex;">
-  <img src="CogSci%20Logo2.png" width="50%"><img src="Sticker6.png" width="50%">
+  <img src="media/CogSci%20Logo2.png" width="50%"><img src="media/Sticker6.png" width="50%">
 </div>
 
 # Powerlifting
@@ -34,12 +34,12 @@ Outside of academics and research, I like to do some fun things :)
 
 {{< video https://www.youtube.com/watch?v=4te76E_lK8o >}}
 
-![](ypl.JPG)
+![](media/ypl.JPG)
 
-- All-time PRs: 175 S / 105 B / 235 D
+- All-time PRs: 180 S / 105 B / 235 D
 - 225 lbs deadlift!  
 
-![](225.gif)
+![](media/225.gif)
 
 # Volunteering
 - Bridges ESL
