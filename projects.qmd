@@ -5,12 +5,11 @@ layout: page
 
 ## Scholarly Publications
 ### In Press
+Keswani, V., Conitzer, V., Sinnott-Armstrong, W., **Nguyen, B. K.**, Heidari, H. & Schaich Borg, J. (2024) Can AI Model the Complexities of Human Moral Decision-making? A Qualitative Study of Kidney Allocation Decisions. *Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI '25)*
+
 Ratjen, L., Goddard, E., Gilcher, E. B., **Nguyen, B. K.**, Backhaus, A., Kelley, M., Akalaonu, K., Feldman, H. S., Lascurain, M. L., Wyrtzen, N. E., Nyhan, K., Smith, S. S., Lowe, S. R., Prabhu, M., Chen, K., Zimmerman, J. B., and Anastas, P. T. (2024). EnvironMental Health: A Framework for an Emerging Field at the Nexus of Environment and Mental Health Crises. *GeoHealth*.
 
 **Nguyen, B. K.**, & Yildirim, I. (2024). An Intuitive Physics Approach to Modeling Melodic Expectation. *Proceedings of the Annual Meeting of the Cognitive Science Society*, 46. https://escholarship.org/uc/item/8ds971xf.
-
-### Accepted
-Keswani, V., Conitzer, V., Sinnott-Armstrong, W., **Nguyen, B. K.**, Heidari, H. & Schaich Borg, J. (2024) Can AI Model the Complexities of Human Moral Decision-making? A Qualitative Study of Kidney Allocation Decisions. *Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI '25)*
 
 ### In Prep
 **Nguyen, B. K.** & Prinzing, M. (2024). What It Means To Be A True Badass: An Experimental Investigation Of The Ordinary Concept. *Review of Philosophy and Psychology.* https://doi.org/10.31234/osf.io/542na.
