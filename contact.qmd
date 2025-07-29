@@ -3,5 +3,6 @@ title: "Contact & CV"
 layout: page
 ---
 
-#### **Email:** [breanna.nguyen@duke.edu](mailto:breanna.nguyen@duke.edu)
-#### **View my CV** [here](media/bnguyen_cv.pdf)
+- #### **Email:** [breanna.nguyen@duke.edu](mailto:breanna.nguyen@duke.edu)
+- #### **[LinkedIn](https://www.linkedin.com/in/breanna-nguyen-105376190/)**
+- #### **View my CV** [here](media/bnguyen_CV.pdf)
