@@ -13,12 +13,12 @@ website:
       - text: "Projects"
         file: projects.qmd
         icon: "book"
+      - text: "Resources"
+        file: resources.qmd
+        icon: "tools"
       - text: "Personal"
         file: personal.qmd
         icon: "person-circle"
-      - text: "Contact & CV"
-        file: contact.qmd
-        icon: "mailbox"
 
 format:
   html:

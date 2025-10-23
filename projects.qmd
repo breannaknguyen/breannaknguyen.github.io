@@ -11,8 +11,23 @@ Ratjen, L., Goddard, E., Gilcher, E. B., **Nguyen, B. K.**, Backhaus, A., Kelley
 
 **Nguyen, B. K.**, & Yildirim, I. (2024). An Intuitive Physics Approach to Modeling Melodic Expectation. *Proceedings of the Annual Meeting of the Cognitive Science Society*, 46. https://escholarship.org/uc/item/8ds971xf.
 
+## Under Review
+Keswani, V., Cousins, C., **Nguyen, B. K.**, Conitzer, V., Heidari, H., Schaich Borg, J., & Sinnott-Armstrong, W. (2025).
+Moral Change or Noise? On Problems of Aligning AI With Temporally Unstable Human Feedback. *AAAI Conference on
+Artificial Intelligence.*
+
+Mulcrone, D., **Nguyen, B. K.**, & McKee, P. (2025) Moral Motivation: A Scoping Review Protocol. *Frontiers in
+Psychology*
+
+
 ### In Prep
-**Nguyen, B. K.** & Prinzing, M. (2024). What It Means To Be A True Badass: An Experimental Investigation Of The Ordinary Concept. *Review of Philosophy and Psychology.* https://doi.org/10.31234/osf.io/542na.
+**Nguyen, B. K.**, Fuller, M. Sinnott-Armstrong, W., & Murray, S. (2025) The partisan penalty: The effect of partisanship
+on evaluating reasons for political belief
+
+**Nguyen, B. K.**, & Yildirim. I. (2025) Probabilistic musical forces model: An Intuitive Physics Approach to Modeling
+Melodic Expectation
+
+**Nguyen, B. K.** & Prinzing, M. (2024). What It Means To Be A True Badass: An Experimental Investigation Of The Ordinary Concept. https://doi.org/10.31234/osf.io/542na.
 
 ## Presentations
 - **Nguyen, B. K.**, & Yildirim. I. An Intuitive Physics Approach to Modeling Melodic Expectation. Poster session presented at: the Annual Meeting of the Cognitive Science Society, 2024 Jul 26, Rotterdam, Netherlands.
@@ -26,7 +41,6 @@ Ratjen, L., Goddard, E., Gilcher, E. B., **Nguyen, B. K.**, Backhaus, A., Kelley
     - [DailyMail](https://www.dailymail.co.uk/sciencetech/article-14148507/Scientists-reveal-exactly-makes-badass.html)
     - [IFLScience](https://www.iflscience.com/this-is-how-to-be-a-badass-according-to-science-77015)
     - [KOOL FM](https://1075koolfm.com/what-makes-someone-a-badass/)
-
 
 ## Other Publications
 - Nguyen, B. K., "The Nail Salon That Raised Me". *295*, 2024. https://issuu.com/yaleaacc/docs/295_2024_1_/9

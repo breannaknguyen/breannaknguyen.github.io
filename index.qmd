@@ -2,6 +2,16 @@
 about:
   template: trestles
   image: media/headshot.jpeg
+  links:
+    - icon: envelope
+      text: Email
+      href: "mailto:breanna.nguyen@duke.edu"
+    - icon: file-text
+      text: CV
+      href: "media/bnguyen_CV.pdf"
+    - icon: linkedin
+      text: LinkedIn
+      href: "https://www.linkedin.com/in/breanna-nguyen-105376190/"
 ---
 
 Hi! I am currently a senior research data tech in the Moral Attitudes and Decisions Lab at Duke University. I have a strong passion for research and am always seeking opportunities to expand my knowledge and skills. I aim to apply to PhD programs this upcoming cycle. I am broadly interested in moral cognition, computational ethics, and data science.
