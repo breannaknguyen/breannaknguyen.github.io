@@ -3,5 +3,7 @@ title: "Resources"
 layout: page
 ---
 
+::: {.section-card}
 - ### How to Use Qualtrics Web Service to Implement Complex Study Designs [[Tutorial]](https://github.com/breannaknguyen/Tutorials/blob/main/QualtricsWebService/Tutorial.md)
+:::
 

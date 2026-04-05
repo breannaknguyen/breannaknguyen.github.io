@@ -4,20 +4,31 @@ layout: page
 ---
 Outside of academics and research, I like to do some fun things :)
 
+::: {.section-card}
 # Music
+<br>
+
 {{< video https://www.youtube.com/watch?v=1zhd1ExfVI8 >}}
 
 {{< video https://www.youtube.com/watch?v=x31LqfbHsXo >}}
+:::
 
+::: {.section-card}
 # Science Communication
+<br>
+
 - Videos about research for PSYC 457: Communicating Psychological Science
 {{< video https://www.youtube.com/watch?v=QWmaUXx4_S8&authuser=0 >}}
 
 {{< video https://www.youtube.com/watch?v=d0_0Q7K4uIw&authuser=0 >}}
 
 {{< video https://www.youtube.com/watch?v=QFrrrjHP6tc&authuser=0 >}}
+:::
 
+::: {.section-card}
 # Art 
+<br>
+
 ## Nail Art
 ::: {layout-ncol=2}
 ![](media/nails1.png)
@@ -39,8 +50,12 @@ Outside of academics and research, I like to do some fun things :)
 <div style="display: flex;">
   <img src="media/CogSci%20Logo2.png" width="50%"><img src="media/Sticker6.png" width="50%">
 </div>
+:::
 
+::: {.section-card}
 # Powerlifting
+<br>
+
 - I was one of the founders of the largest club sport at Yale, growing from 3 original members to over 100 from the first to second year.  
 - [YDN article](https://yaledailynews.com/blog/2022/11/02/club-powerlifting-host-its-first-meet-of-the-year/)
 
@@ -52,8 +67,12 @@ Outside of academics and research, I like to do some fun things :)
 - 225 lbs deadlift!  
 
 ![](media/225.gif)
+:::
 
+::: {.section-card}
 # Volunteering
+<br>
+
 - Bridges ESL
   - I had the privilege of tutoring amazing students on their English language learning journeys.
   - [YDN article](https://yaledailynews.com/blog/2022/10/26/bridges-esl-connects-yale-and-new-haven-through-interactive-english-lessons/)
@@ -62,4 +81,5 @@ Outside of academics and research, I like to do some fun things :)
   - [More information](https://projectaccess.org/)
 - Yale Undergraduate Admissions
   - I participated in program that matched selected Yale students with admitted students who had shared interests to advise on pre-matriculation matters. I also visited high schools to target high-achieving students in underrepresented geographic areas and promote application and financial aid opportunities.
+:::
 

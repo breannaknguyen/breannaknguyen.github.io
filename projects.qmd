@@ -4,36 +4,45 @@ layout: page
 ---
 
 ## Scholarly Publications
+::: {.section-card}
 ### In Press/Accepted
 Keswani, V., Cousins, C., **Nguyen, B. K.**, Conitzer, V., Heidari, H., Schaich Borg, J., & Sinnott-Armstrong, W. (2025).
-Moral Change or Noise? On Problems of Aligning AI With Temporally Unstable Human Feedback. *AAAI Conference on
-Artificial Intelligence.*
+Moral Change or Noise? On Problems of Aligning AI With Temporally Unstable Human Feedback. *AAAI Conference on Artificial Intelligence.* https://doi.org/10.1609/aaai.v40i44.41083.
 
-Keswani, V., Conitzer, V., Sinnott-Armstrong, W., **Nguyen, B. K.**, Heidari, H. & Schaich Borg, J. (2024) Can AI Model the Complexities of Human Moral Decision-making? A Qualitative Study of Kidney Allocation Decisions. *Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI '25)*
+Keswani, V., Conitzer, V., Sinnott-Armstrong, W., **Nguyen, B. K.**, Heidari, H. & Schaich Borg, J. (2024) Can AI Model the Complexities of Human Moral Decision-making? A Qualitative Study of Kidney Allocation Decisions. *Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI '25)* https://doi.org/10.1145/3706598.3714167.
 
-Ratjen, L., Goddard, E., Gilcher, E. B., **Nguyen, B. K.**, Backhaus, A., Kelley, M., Akalaonu, K., Feldman, H. S., Lascurain, M. L., Wyrtzen, N. E., Nyhan, K., Smith, S. S., Lowe, S. R., Prabhu, M., Chen, K., Zimmerman, J. B., and Anastas, P. T. (2024). EnvironMental Health: A Framework for an Emerging Field at the Nexus of Environment and Mental Health Crises. *GeoHealth*.
+Ratjen, L., Goddard, E., Gilcher, E. B., **Nguyen, B. K.**, Backhaus, A., Kelley, M., Akalaonu, K., Feldman, H. S., Lascurain, M. L., Wyrtzen, N. E., Nyhan, K., Smith, S. S., Lowe, S. R., Prabhu, M., Chen, K., Zimmerman, J. B., and Anastas, P. T. (2024). EnvironMental Health: A Framework for an Emerging Field at the Nexus of Environment and Mental Health Crises. *GeoHealth*. http://dx.doi.org/10.1029/2024GH001254.
 
 **Nguyen, B. K.**, & Yildirim, I. (2024). An Intuitive Physics Approach to Modeling Melodic Expectation. *Proceedings of the Annual Meeting of the Cognitive Science Society*, 46. https://escholarship.org/uc/item/8ds971xf.
 
-## Under Review
+<br>
+
+### Under Review
 **Nguyen, B. K.**, Fuller, M. Sinnott-Armstrong, W., & Murray, S. (2025) The partisan penalty: The effect of partisanship
-on evaluating reasons for political belief. *Journal of Experimental Psychology: General*.
+on evaluating reasons for political belief. *Journal of Personality and Social Psychology*. (Submitted)
 
-**Nguyen, B. K.** & Prinzing, M. (2024). What It Means To Be A True Badass: An Experimental Investigation Of The Ordinary Concept. *Experimental Philosophy* https://doi.org/10.31234/osf.io/542na. 
+**Nguyen, B. K.**, & Yildirim. I. (2025) Probabilistic musical forces model: An Intuitive Physics Approach to Modeling
+Melodic Expectation. *Journal of Experimental Psycholog: General*.(Under Review)
 
-Mulcrone, D., **Nguyen, B. K.**, & McKee, P. (2025) Moral Motivation: A Scoping Review Protocol. *Frontiers in
-Psychology*
+Keswani, V., **Nguyen, B. K.**, Cousins, C., Conitzer, V., Sinnott-Armstrong, W., & Schaich Borg, J. (2026). Position: We Need Practical AI Alignment Methods that Mirror Human Reasoning. *International Conference on Machine Learning (ICML'26).* (Under Review)
+
+Mulcrone, D., **Nguyen, B. K.**, & McKee, P. (2025) Moral Motivation: A Scoping Review Protocol. *Frontiers in Psychology* (Under Review)
+
+<br>
 
 ### In Prep
-**Nguyen, B. K.**, & Yildirim. I. (2025) Probabilistic musical forces model: An Intuitive Physics Approach to Modeling
-Melodic Expectation. *Cognition*.
+**Nguyen, B. K.** & Prinzing, M. (2024). What It Means To Be A True Badass: An Experimental Investigation Of The Ordinary Concept. https://doi.org/10.31234/osf.io/542na. 
+:::
 
+::: {.section-card}
 ## Presentations
-- **Nguyen, B. K.** Beyond Advance Directives: A Machine Learning Tool to Aid End‑of‑Life Decisions in Dementia Care. Research Spotlight Talk at: Conference on Society-Centered AI, 2026 Feb 12, Durham, NC.
+- **Nguyen, B. K.** Beyond Advance Directives: A Machine Learning Tool to Aid End‑of‑Life Decisions in Dementia Care. Society-Centered AI Panel Research Spotlight Talk, 2026 Feb 12; BIOETHIC 603 Guest Lecture 2026 Feb 18; PHIL 515 Guest Lecture 2026 Mar 18.
 - **Nguyen, B. K.** & Murray, S. The partisan penalty: The effect of partisanship on evaluating reasons for political belief. Blitz Talk at: An Online Gathering for the Moral Psychology Research Group, 2025 Nov 8.
 - **Nguyen, B. K.**, & Yildirim. I. An Intuitive Physics Approach to Modeling Melodic Expectation. Poster session presented at: the Annual Meeting of the Cognitive Science Society, 2024 Jul 26, Rotterdam, Netherlands.
 - **Nguyen, B. K.**, & Prinzing, M. What It Means to Be Badass. Poster session presented at: The Society for Personality and Social Psychology’s Annual Convention, 2024 Feb 9, San Diego, CA and The Society for Southeastern Social Psychologists Annual Meeting, 2023 Nov 4, Charlotte, NC.
+:::
 
+::: {.section-card}
 ## In The Media
 - Moral AI
     -  [The Register](https://www.theregister.com/2025/03/08/ai_kidney_transplant_moral_decisions/)
@@ -42,7 +51,10 @@ Melodic Expectation. *Cognition*.
     - [DailyMail](https://www.dailymail.co.uk/sciencetech/article-14148507/Scientists-reveal-exactly-makes-badass.html)
     - [IFLScience](https://www.iflscience.com/this-is-how-to-be-a-badass-according-to-science-77015)
     - [KOOL FM](https://1075koolfm.com/what-makes-someone-a-badass/)
+:::
 
+::: {.section-card}
 ## Other Publications
 - Nguyen, B. K., "The Nail Salon That Raised Me". *295*, 2024. https://issuu.com/yaleaacc/docs/295_2024_1_/9
     - Full version: [Link](media/nail_salon.pdf)
+:::

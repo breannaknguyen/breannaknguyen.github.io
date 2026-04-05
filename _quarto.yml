@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: Breanna Nguyễn
+  title: Breanna K. Nguyễn
   favicon: favicon.png
   navbar:
     right:
@@ -23,5 +23,6 @@ website:
 format:
   html:
     theme: lumen
+    css: styles.css
     toc: true
     smooth-scroll: true

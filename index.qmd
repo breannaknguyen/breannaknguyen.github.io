@@ -14,14 +14,19 @@ about:
       href: "https://www.linkedin.com/in/breanna-nguyen-105376190/"
 ---
 
-Hi! I am currently a senior research data tech in the Moral Attitudes and Decisions Lab and an incoming PhD Student at Duke University. I have a strong passion for research and am always seeking opportunities to expand my knowledge and skills. I am broadly interested in moral cognition, computational modeling of cognitive processes, and data science.
+::: {.section-card}
+Hi! I am currently a senior research data tech in the Moral Attitudes and Decisions Lab and an incoming Ph.D. Student at Duke University. I have a strong passion for research and am always seeking opportunities to expand my knowledge and skills. I am broadly interested in moral cognition, computational modeling of cognitive processes, and data science.
+:::
 
-**Education**  
+::: {.section-card}
+## Education
 Yale University | New Haven, CT | 2021-2025  
 *Bachelor of Science in Cognitive Science*  
 *Certificate in Data Science*  
+:::
 
-**Research Experiences**  
+::: {.section-card}
+## Research Experiences
 MAD Lab | Duke University   
 June 2024 - Present  
 *PI: Walter Sinnott-Armstrong*  
@@ -41,3 +46,4 @@ February 2023 - Dec 2023
 Crockett Lab | Yale University  
 Feb 2022 - Aug 2023  
 *PI: Molly Crockett*  
+:::
