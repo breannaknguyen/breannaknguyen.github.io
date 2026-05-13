@@ -6,6 +6,10 @@ layout: page
 ## Scholarly Publications
 ::: {.section-card}
 ### In Press/Accepted
+**Nguyen, B.K.** & Sinnott-Armstrong, W. (2026) Moral Explainability Across Domains: Justification Norms and the Communicability of Decision Processes. *Proceedings of the Annual Meeting of the Cognitive Science Society, 48*.
+
+Keswani, V., **Nguyen, B. K.**, Cousins, C., Conitzer, V., Sinnott-Armstrong, W., & Schaich Borg, J. (2026). Position: We Need Practical AI Alignment Methods that Mirror Human Reasoning. *International Conference on Machine Learning (ICML'26).*
+
 Keswani, V., Cousins, C., **Nguyen, B. K.**, Conitzer, V., Heidari, H., Schaich Borg, J., & Sinnott-Armstrong, W. (2025).
 Moral Change or Noise? On Problems of Aligning AI With Temporally Unstable Human Feedback. *AAAI Conference on Artificial Intelligence.* https://doi.org/10.1609/aaai.v40i44.41083.
 
@@ -18,15 +22,10 @@ Ratjen, L., Goddard, E., Gilcher, E. B., **Nguyen, B. K.**, Backhaus, A., Kelley
 <br>
 
 ### Under Review
-**Nguyen, B. K.**, Fuller, M. Sinnott-Armstrong, W., & Murray, S. (2025) The partisan penalty: The effect of partisanship
-on evaluating reasons for political belief. *Journal of Personality and Social Psychology*. (Submitted)
+**Nguyen, B. K.**, Fuller, M. Sinnott-Armstrong, W., & Murray, S. (2025) The social filtering of reason quality: Evidence from a partisan penalty *Journal of Experimental Psycholog: General*. (Under Review)
 
 **Nguyen, B. K.**, & Yildirim. I. (2025) Probabilistic musical forces model: An Intuitive Physics Approach to Modeling
-Melodic Expectation. *Journal of Experimental Psycholog: General*.(Under Review)
-
-Keswani, V., **Nguyen, B. K.**, Cousins, C., Conitzer, V., Sinnott-Armstrong, W., & Schaich Borg, J. (2026). Position: We Need Practical AI Alignment Methods that Mirror Human Reasoning. *International Conference on Machine Learning (ICML'26).* (Under Review)
-
-Mulcrone, D., **Nguyen, B. K.**, & McKee, P. (2025) Moral Motivation: A Scoping Review Protocol. *Frontiers in Psychology* (Under Review)
+Melodic Expectation. *Journal of Experimental Psycholog: General*. (Under Review)
 
 <br>
 
