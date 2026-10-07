@@ -15,7 +15,7 @@ about:
 ---
 
 ::: {.section-card}
-Hi! I am currently a senior research data tech in the Moral Attitudes and Decisions Lab and an incoming Ph.D. Student at Duke University. I have a strong passion for research and am always seeking opportunities to expand my knowledge and skills. I am broadly interested in moral cognition, computational modeling of cognitive processes, and data science.
+Hi! I am currently first-year Ph.D. Student at Duke University, rotating with Dr. Felipe De Brigard. I have a strong passion for research and am always seeking opportunities to expand my knowledge and skills. I am broadly interested in moral cognition, computational modeling of cognitive processes, and data science.
 :::
 
 ::: {.section-card}
@@ -27,6 +27,10 @@ Yale University | New Haven, CT | 2021-2025
 
 ::: {.section-card}
 ## Research Experiences
+IMC Lab | Duke University   
+August 2026 - Present  
+*PI: Felipe De Brigard*  
+
 MAD Lab | Duke University   
 June 2024 - Present  
 *PI: Walter Sinnott-Armstrong*  
