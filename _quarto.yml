@@ -5,6 +5,7 @@ project:
 website:
   title: Breanna K. Nguyễn
   favicon: favicon.png
+  search: false
   navbar:
     right:
       - text: "Home"

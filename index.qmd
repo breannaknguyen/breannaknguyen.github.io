@@ -1,4 +1,5 @@
 ---
+toc: false
 about:
   template: trestles
   image: media/headshot.jpeg
@@ -20,34 +21,96 @@ Hi! I am currently first-year Ph.D. Student at Duke University, rotating with Dr
 
 ::: {.section-card}
 ## Education
-Yale University | New Haven, CT | 2021-2025  
-*Bachelor of Science in Cognitive Science*  
-*Certificate in Data Science*  
+
+<div class="entry">
+<div class="entry-row">
+<span class="entry-title">Ph.D. Student</span>
+<span class="entry-dates">2026 &ndash; Present</span>
+</div>
+<div class="entry-sub-row">
+<span class="entry-meta">Durham, NC</span>
+<span class="entry-org">Duke University</span>
+</div>
+</div>
+
+<div class="entry">
+<div class="entry-row">
+<span class="entry-title">B.S. in Cognitive Science</span>
+<span class="entry-dates">2021 &ndash; 2025</span>
+</div>
+<div class="entry-sub-row">
+<span class="entry-meta">Certificate in Data Science &middot; New Haven, CT</span>
+<span class="entry-org">Yale University</span>
+</div>
+</div>
 :::
 
 ::: {.section-card}
-## Research Experiences
-IMC Lab | Duke University   
-August 2026 - Present  
-*PI: Felipe De Brigard*  
+## Experience
 
-MAD Lab | Duke University   
-June 2024 - Present  
-*PI: Walter Sinnott-Armstrong*  
+<div class="entry">
+<div class="entry-row">
+<span class="entry-title">IMC Lab</span>
+<span class="entry-dates">Aug 2026 &ndash; Present</span>
+</div>
+<div class="entry-sub-row">
+<span class="entry-meta">PI: Felipe De Brigard</span>
+<span class="entry-org">Duke University</span>
+</div>
+</div>
 
-Experimental Philosophy Group | Yale University  
-Jan 2022 - May 2025  
-*PI: Joshua Knobe* 
+<div class="entry">
+<div class="entry-row">
+<span class="entry-title">MAD Lab</span>
+<span class="entry-dates">Jun 2024 &ndash; Present</span>
+</div>
+<div class="entry-sub-row">
+<span class="entry-meta">PI: Walter Sinnott-Armstrong</span>
+<span class="entry-org">Duke University</span>
+</div>
+</div>
 
-EnvironMental Health Project | Yale University  
-Jan 2022 - Feb 2025  
-*PI: Paul Anastas*  
+<div class="entry">
+<div class="entry-row">
+<span class="entry-title">Experimental Philosophy Group</span>
+<span class="entry-dates">Jan 2022 &ndash; May 2025</span>
+</div>
+<div class="entry-sub-row">
+<span class="entry-meta">PI: Joshua Knobe</span>
+<span class="entry-org">Yale University</span>
+</div>
+</div>
 
-Human Nature Lab | Yale University  
-February 2023 - Dec 2023  
-*PI: Nicholas Christakis*  
+<div class="entry">
+<div class="entry-row">
+<span class="entry-title">EnvironMental Health Project</span>
+<span class="entry-dates">Jan 2022 &ndash; Feb 2025</span>
+</div>
+<div class="entry-sub-row">
+<span class="entry-meta">PI: Paul Anastas</span>
+<span class="entry-org">Yale University</span>
+</div>
+</div>
 
-Crockett Lab | Yale University  
-Feb 2022 - Aug 2023  
-*PI: Molly Crockett*  
+<div class="entry">
+<div class="entry-row">
+<span class="entry-title">Human Nature Lab</span>
+<span class="entry-dates">Feb 2023 &ndash; Dec 2023</span>
+</div>
+<div class="entry-sub-row">
+<span class="entry-meta">PI: Nicholas Christakis</span>
+<span class="entry-org">Yale University</span>
+</div>
+</div>
+
+<div class="entry">
+<div class="entry-row">
+<span class="entry-title">Crockett Lab</span>
+<span class="entry-dates">Feb 2022 &ndash; Aug 2023</span>
+</div>
+<div class="entry-sub-row">
+<span class="entry-meta">PI: Molly Crockett</span>
+<span class="entry-org">Yale University</span>
+</div>
+</div>
 :::

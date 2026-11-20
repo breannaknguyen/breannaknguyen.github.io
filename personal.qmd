@@ -1,33 +1,34 @@
 ---
 title: "Personal"
 layout: page
+toc: false
 ---
 Outside of academics and research, I like to do some fun things :)
 
-::: {.section-card}
-# Music
-<br>
+<details class="section-card" name="personal-accordion">
+<summary>Music</summary>
 
 {{< video https://www.youtube.com/watch?v=1zhd1ExfVI8 >}}
 
 {{< video https://www.youtube.com/watch?v=x31LqfbHsXo >}}
-:::
 
-::: {.section-card}
-# Science Communication
-<br>
+</details>
+
+<details class="section-card" name="personal-accordion">
+<summary>Science Communication</summary>
 
 - Videos about research for PSYC 457: Communicating Psychological Science
+
 {{< video https://www.youtube.com/watch?v=QWmaUXx4_S8&authuser=0 >}}
 
 {{< video https://www.youtube.com/watch?v=d0_0Q7K4uIw&authuser=0 >}}
 
 {{< video https://www.youtube.com/watch?v=QFrrrjHP6tc&authuser=0 >}}
-:::
 
-::: {.section-card}
-# Art 
-<br>
+</details>
+
+<details class="section-card" name="personal-accordion">
+<summary>Art</summary>
 
 ## Nail Art
 ::: {layout-ncol=2}
@@ -40,8 +41,7 @@ Outside of academics and research, I like to do some fun things :)
 ![](media/nails4.png)
 :::
 
-
-## *The Yale Record* cartoons  
+## *The Yale Record* cartoons
 <div style="display: flex;">
   <img src="media/lanyard.png" width="50%"><img src="media/Cowboys.png" width="50%" >
 </div>
@@ -50,13 +50,13 @@ Outside of academics and research, I like to do some fun things :)
 <div style="display: flex;">
   <img src="media/CogSci%20Logo2.png" width="50%"><img src="media/Sticker6.png" width="50%">
 </div>
-:::
 
-::: {.section-card}
-# Powerlifting
-<br>
+</details>
 
-- I was one of the founders of the largest club sport at Yale, growing from 3 original members to over 100 from the first to second year.  
+<details class="section-card" name="personal-accordion">
+<summary>Powerlifting</summary>
+
+- I was one of the founders of the largest club sport at Yale, growing from 3 original members to over 100 from the first to second year.
 - [YDN article](https://yaledailynews.com/blog/2022/11/02/club-powerlifting-host-its-first-meet-of-the-year/)
 
 {{< video https://www.youtube.com/watch?v=4te76E_lK8o >}}
@@ -64,14 +64,14 @@ Outside of academics and research, I like to do some fun things :)
 ![](media/ypl.JPG)
 
 - All-time PRs: 180 S / 105 B / 235 D
-- 225 lbs deadlift!  
+- 225 lbs deadlift!
 
 ![](media/225.gif)
-:::
 
-::: {.section-card}
-# Volunteering
-<br>
+</details>
+
+<details class="section-card" name="personal-accordion">
+<summary>Volunteering</summary>
 
 - Bridges ESL
   - I had the privilege of tutoring amazing students on their English language learning journeys.
@@ -81,5 +81,5 @@ Outside of academics and research, I like to do some fun things :)
   - [More information](https://projectaccess.org/)
 - Yale Undergraduate Admissions
   - I participated in program that matched selected Yale students with admitted students who had shared interests to advise on pre-matriculation matters. I also visited high schools to target high-achieving students in underrepresented geographic areas and promote application and financial aid opportunities.
-:::
 
+</details>
